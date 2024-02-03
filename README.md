@@ -12,10 +12,6 @@
 ##################################################################################################################################
 ```
 
-- Url of the project
-
-- Elements of the game: table with a enumeration of the characters of the game. What they do, who they interact with.
-
 1. Shield
 
 2. Spaceship
