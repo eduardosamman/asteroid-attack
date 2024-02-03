@@ -35,13 +35,6 @@ Contents:
 -     Space Animal 
 -     Asteroids
 
-Now there's a faster way to play MONOPOLY. Choose to play by
-the classic rules for buying, renting and selling properties or use the
-Speed Die to get into the action faster. If you've never played the classic
-MONOPOLY game, refer to the Classic Rules beginning on the next page.
-If you already know how to play and want to use the Speed Die, just
-read the section below for the additional Speed Die rules.
-
 OBJECTIVE: The objective of the game is to protect the SPACESHIP from impacting ASTEROIDS by controlling 
 the SHIELD. 
 
