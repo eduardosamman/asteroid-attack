@@ -56,8 +56,3 @@ limits of the  window, meaning the user must acount for changes in the direction
 GEMS   : Gives more SPACE ANIMAL summonings. 
 
 ENERGY : Gives the user + 10 Health points. 
-
-
-- link to a 30 second video showing how you play.
-
-This is what you will be presenting orally. Instead of showing the video, though, you will play. 5-7 minutes per presentation.
