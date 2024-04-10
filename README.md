@@ -21,9 +21,9 @@ Asteroid Attack is a thrilling arcade-style game where players must protect thei
 
 The objective of the game is to protect your spaceship from colliding with asteroids by controlling a shield. Players start with 100 health points and must prevent asteroids from hitting or crossing the spaceship boundary. They can summon an aid ship and space animal to help destroy asteroids. There are three types of asteroids:
 
-- Blue Asteroid: -1 health point
-- Green Asteroid: -3 health points
-- Red Asteroid: -9 health points
+- Blue Asteroid: -1 Health Point
+- Green Asteroid: Monster Kill
+- Red Asteroid: Instant Kill
 
 ## Gameplay
 
