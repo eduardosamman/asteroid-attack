@@ -10,32 +10,41 @@
 #                          \___ \ ) __//    \( (__  ) _)    ) __/ )   /(  O ) )(   ) _)( (__   )( (  O ))   /                    #
 #                          (____/(__)  \_/\_/ \___)(____)  (__)  (__\_) \__/ (__) (____)\___) (__) \__/(__\_)                    #
 ##################################################################################################################################
-```
-Contents: 
 
--     Shield
--     Aid Ship
--     Space Animal 
--     Asteroids
+![Gameplay screenshot](https://github.com/eduardosamman/asteroid-attack/assets/120644239/b863186d-6a71-4b3c-8595-7433c2facae7)
 
-OBJECTIVE: The objective of the game is to protect the SPACESHIP from impacting ASTEROIDS by controlling 
-the SHIELD. 
+## Overview
 
-The player starts with 100 health points and needs to prevent ASTEROIDS from  hitting or crossing the 
-SPACESHIP boundary. THe player will be able to summon a AID SHIP and SPACE ANIMAL to help the user 
-destroy the asteroids. There are three tpyes of ASTEROID:
+Asteroid Attack is a thrilling arcade-style game where players must protect their spaceship from incoming asteroids using a powerful shield. The game offers a variety of challenges and strategic elements to keep players engaged and entertained.
 
-1. BLUE ASTEROID  : -1 HEALTH POINT
+## Objective
 
-2. GREEN ASTEROID : -3 HEALTH POINT
+The objective of the game is to protect your spaceship from colliding with asteroids by controlling a shield. Players start with 100 health points and must prevent asteroids from hitting or crossing the spaceship boundary. They can summon an aid ship and space animal to help destroy asteroids. There are three types of asteroids:
 
-3. RED ASTEROID   : -9 HEALTH POINT
+- Blue Asteroid: -1 health point
+- Green Asteroid: -3 health points
+- Red Asteroid: -9 health points
 
-Starting with the SHIELD, the players controls the direction and position of the SHIELD with the mouse. 
-A life counter will indicate the current playing status, when the player reaches 0 live, they lose, every 50 ASTEROIDS they 
-destroy, makes the overall velocity of the ASTEROIDS increase by 1 (v = +1). The ASTEROIDS bounce when they hit the 
-limits of the  window, meaning the user must acount for changes in the direction (vectorial trajection changes) of the asteroid. 
+## Gameplay
 
-GEMS   : Gives more SPACE ANIMAL summonings. 
+Players control the shield's direction and position with the mouse. A life counter indicates the current status, and reaching 0 lives results in losing the game. For every 50 asteroids destroyed, the overall velocity of asteroids increases by 1. Asteroids bounce when they hit the window limits, requiring players to account for changes in direction.
 
-ENERGY : Gives the user + 10 Health points. 
+## Elements of the Game
+
+![Game elements](https://github.com/eduardosamman/asteroid-attack/assets/120644239/2a67df6a-5096-4c76-820f-6205fb7740d5)
+
+## Rules of the Game
+
+- The goal is to survive as long as possible, preventing asteroids from hitting the spaceship.
+- Use space monsters and energy balls strategically to block as many asteroids as possible.
+- The shield can be controlled with the mouse or direction keys.
+- Dark orbs instantly end the game if not stopped, so prioritize stopping them.
+- Green orbs deal increased damage and should also be stopped.
+- Both green and dark orbs kill the space monster.
+- The game ends when the spaceship has 0 health points. Energy rocks give you 10 additional health points.
+
+![Gameplay screenshot](https://github.com/eduardosamman/asteroid-attack/assets/120644239/6643b1b0-fde5-4b1c-9a29-951fc33eed6c)
+
+https://github.com/eduardosamman/asteroid-attack/assets/120644239/f901c5ec-0a8b-4c7e-a55f-08e0cb7d48c4
+
+
